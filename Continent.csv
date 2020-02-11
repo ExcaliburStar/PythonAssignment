@@ -1,61 +1,62 @@
-﻿Country,Continent
-Algeria,Africa
-Argentina,South America
-Armenia,Europe
-Australia,Oceania
-Azerbaijan,Europe
-Belarus,Europe
-Brazil,South America
-Colombia,South America
-Cyprus,Europe
-Chile,South America
-China,Asia
-Ecuador,South America
-Egypt,Africa
-Estonia,Europe
-Georgia,Europe
-Germany,Europe
-Ghana,Africa
-Haiti,North America
-Hong Kong,Asia
-Iraq,Asia
-Japan,Asia
-Jordan,Asia
-Kazakhstan,Asia
-Kuwait,Asia
-Kyrgyzstan,Asia
-Lebanon,Asia
-Libya,Africa
-Malaysia,Asia
-Mexico,North America
-Morocco,Africa
-Netherlands,Europe
-New Zealand,Oceania
-Nigeria,Africa
-Pakistan,Asia
-Palestine,Asia
-Peru,South America
-Philippines,Asia
-Poland,Europe
-Qatar,Asia
-Romania,Europe
-Russia,Asia
-Rwanda,Africa
-Singapore,Asia
-Slovenia,Europe
-South Korea,Asia
-South Africa,Africa
-Spain,Europe
-Sweden,Europe
-Taiwan,Asia
-Thailand,Asia
-Trinidad and Tobago,North America
-Tunisia,Africa
-Turkey,Asia
-Ukraine,Europe
-United States,North America
-Uruguay,South America
-Uzbekistan,Asia
-Yemen,Asia
-India,Asia
-Zimbabwe,Africa
+﻿Country,Continent,MacroContinent,Hemisphere
+Algeria,Africa,East,Southern
+Argentina,South America,Western,Southern
+Armenia,Europe,Western,Northern
+Australia,Oceania,Western,Southern
+Azerbaijan,Europe,Western,Northern
+Belarus,Europe,Western,Northern
+Brazil,South America,Western,Southern
+Chile,South America,Western,Southern
+China,Asia,East,Southern
+Colombia,South America,Western,Southern
+Country,Continent,MacroContinent,Hemisphere
+Cyprus,Europe,Mid-East,Northern
+Ecuador,South America,Western,Southern
+Egypt,Africa,Mid-East,Southern
+Estonia,Europe,Western,Northern
+Georgia,Europe,Western,Northern
+Germany,Europe,Western,Northern
+Ghana,Africa,East,Southern
+Haiti,North America,Western,Western 
+Hong Kong,Asia,East,Southern
+India,Asia,East,Southern
+Iraq,Asia,Mid-East,Southern
+Japan,Asia,East,Southern
+Jordan,Asia,Mid-East,Southern
+Kazakhstan,Asia,East,Southern
+Kuwait,Asia,Mid-East,Southern
+Kyrgyzstan,Asia,East,Southern
+Lebanon,Asia,Mid-East,Southern
+Libya,Africa,East,Southern
+Malaysia,Asia,East,Southern
+Mexico,North America,Western,Northern
+Morocco,Africa,East,Southern
+Netherlands,Europe,Western,Northern
+New Zealand,Oceania,Western,Southern
+Nigeria,Africa,East,Southern
+Pakistan,Asia,East,Southern
+Palestine,Asia,East,Southern
+Peru,South America,Western,Southern
+Philippines,Asia,East,Southern
+Poland,Europe,Western,Northern
+Qatar,Asia,Mid-East,Southern
+Romania,Europe,Western,Northern
+Russia,Asia,East,Southern
+Rwanda,Africa,East,Southern
+Singapore,Asia,East,Southern
+Slovenia,Europe,Western,Northern
+South Africa,Africa,East,Southern
+South Korea,Asia,East,Southern
+Spain,Europe,Western,Northern
+Sweden,Europe,Western,Northern
+Taiwan,Asia,East,Southern
+Thailand,Asia,East,Southern
+Trinidad and Tobago,North America,Western,Western 
+Tunisia,Africa,East,Southern
+Turkey,Asia,Mid-East,Southern
+Ukraine,Europe,Western,Northern
+United States,North America,Western,Northern
+Uruguay,South America,Western,Southern
+Uzbekistan,Asia,East,Southern
+Yemen,Asia,Mid-East,Southern
+Zimbabwe,Africa,East,Southern
