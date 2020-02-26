@@ -1,5 +1,5 @@
 {
- “datas”:[
+ "datas":[
  	{"state": "Alabama","abbreviation": "AL"},
  	{"state": "Alaska","abbreviation": "AK"},
  	{"state": "American Samoa","abbreviation": "AS"},
@@ -12,7 +12,7 @@
  	{"state": "District Of Columbia","abbreviation": "DC"},
  	{"state": "Federated States Of Micronesia","abbreviation":"FM"},
  	{"state": "Florida","abbreviation": "FL"},
- 	{"state": "Georgia","abbreviation": “GA"},
+ 	{"state": "Georgia","abbreviation": "GA"},
  	{"state": "Guam","abbreviation": "GU"},
  	{"state": "Hawaii","abbreviation": "HI"},
  	{"state": "Idaho","abbreviation": "ID"},
